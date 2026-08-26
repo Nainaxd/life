@@ -1,1 +1,3 @@
 # life
+
+proposition 1
